@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cafe Management</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Вхід в систему</string>
+    <string name="username_label">Ім\'я користувача</string>
+    <string name="password_label">Пароль</string>
+    <string name="remember_me">Запам\'ятати мене</string>
+    <string name="login_button">Увійти</string>
+    <string name="show_password">Показати пароль</string>
+    <string name="hide_password">Приховати пароль</string>
+
+    <!-- Error Messages -->
+    <string name="error_empty_username">Введіть ім\'я користувача</string>
+    <string name="error_empty_password">Введіть пароль</string>
+    <string name="error_invalid_credentials">Невірне ім\'я користувача або пароль</string>
+    <string name="error_network">Помилка мережі. Спробуйте пізніше</string>
+    <string name="error_no_internet">Відсутнє з\'єднання з інтернетом</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_message">Вітаємо, %s!</string>
+    <string name="role_label">Роль: %s</string>
+    <string name="new_transaction">Нова транзакція</string>
+    <string name="reports">Звіти</string>
+    <string name="logout">Вийти</string>
+
+    <!-- Common -->
+    <string name="loading">Завантаження…</string>
+    <string name="retry">Спробувати знову</string>
+    <string name="cancel">Скасувати</string>
+    <string name="ok">OK</string>
+</resources>
